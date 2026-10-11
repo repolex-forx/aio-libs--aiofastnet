@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiofastnet",
+  "versions": [
+    {
+      "commit": "29bcb0f99131e794d329cbdd46a8cda090712147",
+      "tag": "v1.2.0",
+      "parsed_at": "2026-10-11T04:56:18.087415+00:00"
+    }
+  ]
+}
