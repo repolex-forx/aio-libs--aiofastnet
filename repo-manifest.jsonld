@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aiofastnet/commit/29bcb0f99131e794d329cbdd46a8cda090712147",
       "git:hexsha": "29bcb0f99131e794d329cbdd46a8cda090712147",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.2.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.2.0",
+      "repolex:parsedAt": "2026-10-11T04:56:18.086740+00:00"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/aiofastnet/commit/6e219248fb2f1b55084e58140dc3c81a10ec7578",
